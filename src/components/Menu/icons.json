@@ -1,0 +1,37 @@
+[
+    {
+        "image": "/assets/images/menu/home.png",
+        "title": "Home",
+        "alt": "home icon",
+        "link": "#",
+        "id": 1
+    },
+    {
+        "image": "/assets/images/menu/like.png",
+        "title": "More liked",
+        "alt": "like icon",
+        "link": "#",
+        "id": 2
+    },
+    {
+        "image": "/assets/images/menu/view.png",
+        "title": "Most views",
+        "alt": "news icon",
+        "link": "#",
+        "id": 3
+    },
+    {
+        "image": "/assets/images/menu/news.png",
+        "title": "News",
+        "alt": "view icon",
+        "link": "#",
+        "id": 4
+    },
+    {
+        "image": "/assets/images/menu/surprise.png",
+        "title": "Surprise-me",
+        "alt": "surprise icon",
+        "link": "#",
+        "id": 5
+    }
+]

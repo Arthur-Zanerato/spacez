@@ -1,0 +1,5 @@
+{
+    "sass.format.deleteEmptyRows": true,
+    "sass.format.deleteWhitespace": true,
+    "scss.lint.unknownAtRules": "ignore",
+}
